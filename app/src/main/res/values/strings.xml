@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="Texto">Ingrese sus datos para calcular su edad y horoscopo chino</string>
+    <string name="Titulo">HOROSCOPO CHINO</string>
+    <string name="error">Por favor ingresa un número válido</string>
+    <string name="requerido">Requerido</string>
+    <string name="respuesta">"El número "</string>
+    <string name="si">" sí "</string>
+    <string name="no">" no "</string>
+    <string name="primo">es válido.</string>
+</resources>
